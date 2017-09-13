@@ -3,8 +3,8 @@ def inicializar():
 	for i in range(3):
 		linha = [ ]
 		for j in range(3):
-			linha.append("X.
-	return tab
+			linha.append(".")
+	return
 
 def main( ):
 	jogo = inicializar( )
